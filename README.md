@@ -23,4 +23,3 @@ Research in 3D reconstruction is dynamically expanding, integrating cutting-edge
 - **Data Efficiency Improvements**: Addressing the challenge of data sparsity, new algorithms aim to produce high-quality reconstructions from limited or incomplete data sets, expanding the usability of 3D reconstruction in fieldwork and historical preservation.
 
 These research initiatives are not only advancing the field technically but are also broadening the scope of applications, thereby paving the way for future innovations in 3D reconstruction.
-
