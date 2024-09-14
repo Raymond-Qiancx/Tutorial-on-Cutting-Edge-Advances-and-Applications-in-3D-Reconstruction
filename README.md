@@ -21,4 +21,13 @@ Despite its vast potential, 3D reconstruction encounters several significant cha
 - **Multimodal Data Fusion**: Integrating data from diverse sensors (e.g., RGB cameras, depth sensors, LiDAR) enhances reconstruction accuracy but presents challenges due to differences in resolution, noise characteristics, and data formats. Effective fusion of multimodal data remains a complex problem.
 - **Texture and Material Reconstruction**: Accurate reconstruction of textures and materials, in addition to geometric shapes, is essential for realistic visualization and virtual reality applications. Challenges include texture distortion and material inconsistencies influenced by lighting conditions and sensor limitations.
 
+## Current Research Hotpots
+
+### Generation-based
+
+#### Text-to-Image Generation
+
+### Multimodal-based
+
+### Humam Motion Prediction
 
